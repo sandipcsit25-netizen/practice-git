@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("New modified file.");
+    printf("Newly modified file.");
+    return 0;
 }
